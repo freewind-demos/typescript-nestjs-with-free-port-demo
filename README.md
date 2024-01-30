@@ -1,13 +1,9 @@
-Typescript NestJS Demo
+Typescript NestJS with Free Port Demo
 ======================
 
-Say hello
-
-`nest-cli.json`是用来每次启动时，自动删除dist，否则还会用旧文件。
+Start nestjs with a free available port, not the fixed one `3000`
 
 ```
 npm i
 npm start
 ```
-
-Then open http://localhost:3000
