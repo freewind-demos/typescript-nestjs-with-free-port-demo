@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "nest start"
+    "start": "nest start --watch"
   },
   "dependencies": {
     "@nestjs/common": "10.0.0",
